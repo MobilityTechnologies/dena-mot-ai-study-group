@@ -11,6 +11,7 @@ subtitle: "DeNAとMoTでは、AI技術に携わるメンバーの情報交換を
 |2021/7/15|二瓶 泰徳|[カルマンフィルタ入門](https://www.slideshare.net/ssuserf7b6ad/ss-250284912)|
 |2021/7/15|内田 祐介|[You Only Look One-level Feature, CVPR'21](https://www.slideshare.net/ren4yu/you-only-look-onelevel-feature)|
 |2021/7/1|島田 哲朗|["Introduction to Causal Inference"の紹介](https://lab.mo-t.com/blog/causal-inference)|
+|2021/7/1|唐澤 拓己|[Monocular 3D Object Detection @CVPR2021](https://speakerdeck.com/takarasawa_/monocular-3d-object-detection-at-cvpr2021)|
 |2021/6/3|黒柳 敬一|[QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://speakerdeck.com/keiku/querydet-cascaded-sparse-query-for-accelerating-high-resolution-small-object-detection)|
 |2021/5/27|横尾 修平|[[Kaggle] Shopeeコンペ振り返り](https://speakerdeck.com/lyakaap/shopee-2nd-place-solutiontoshang-wei-jie-fa-matome)|
 |2021/5/13|吉田 知貴|[図で理解するTransformer](https://qiita.com/birdwatcher/items/b3e4428f63f708db37b7)|
