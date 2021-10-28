@@ -7,6 +7,7 @@ subtitle: "DeNAとMoTでは、AI技術に携わるメンバーの情報交換を
 |発表日|発表者|タイトル|
 |----|----|----|
 |2021/10/14|望月 正弘|[SIGNATE: ファンダメンタルズ分析チャレンジ報告](https://speakerdeck.com/m_mochizuki/the-1st-place-solution-of-jpx-fundamentals-analysis-challenge-on-signate)|
+|2021/9/30|濱田 晃一|[Recent Progress on Generative AI](https://bit.ly/3ms7xYz)|
 |2021/9/16|本多 浩大|[Vanishing Point Detector (消失点ディテクター, arXiv paper from MoT)](https://arxiv.org/abs/2108.13699)|
 |2021/7/15|二瓶 泰徳|[カルマンフィルタ入門](https://www.slideshare.net/ssuserf7b6ad/ss-250284912)|
 |2021/7/15|内田 祐介|[You Only Look One-level Feature, CVPR'21](https://www.slideshare.net/ren4yu/you-only-look-onelevel-feature)|
