@@ -11,7 +11,7 @@ subtitle: "DeNAとMoTでは、AI技術に携わるメンバーの情報交換を
 |2021/10/14|望月 正弘|[SIGNATE: ファンダメンタルズ分析チャレンジ報告](https://speakerdeck.com/m_mochizuki/the-1st-place-solution-of-jpx-fundamentals-analysis-challenge-on-signate)|
 |2021/9/30|濱田 晃一|[Recent Progress on Generative AI](https://bit.ly/3ms7xYz)|
 |2021/9/16|本多 浩大|[Vanishing Point Detector (消失点ディテクター, arXiv paper from MoT)](https://arxiv.org/abs/2108.13699)|
-|2021/9/16|洪 嘉源|[face quality accessment](https://www.slideshare.net/InukugiKarakuri/face-quality-assessment)|
+|2021/9/16|洪 嘉源|[face quality assessment](https://www.slideshare.net/InukugiKarakuri/face-quality-assessment)|
 |2021/7/15|二瓶 泰徳|[カルマンフィルタ入門](https://www.slideshare.net/ssuserf7b6ad/ss-250284912)|
 |2021/7/15|内田 祐介|[You Only Look One-level Feature, CVPR'21](https://www.slideshare.net/ren4yu/you-only-look-onelevel-feature)|
 |2021/7/1|島田 哲朗|["Introduction to Causal Inference"の紹介](https://lab.mo-t.com/blog/causal-inference)|
