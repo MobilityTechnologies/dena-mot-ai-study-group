@@ -19,6 +19,7 @@ subtitle: "DeNAとMoTでは、AI技術に携わるメンバーの情報交換を
 |2021/6/3|黒柳 敬一|[QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://speakerdeck.com/keiku/querydet-cascaded-sparse-query-for-accelerating-high-resolution-small-object-detection)|
 |2021/5/27|横尾 修平|[[Kaggle] Shopeeコンペ振り返り](https://speakerdeck.com/lyakaap/shopee-2nd-place-solutiontoshang-wei-jie-fa-matome)|
 |2021/5/13|吉田 知貴|[図で理解するTransformer](https://qiita.com/birdwatcher/items/b3e4428f63f708db37b7)|
+|2021/4/8|木村 元紀|[SpaceNet-7 Challenge](https://speakerdeck.com/motokimura/4th-place-solution-for-spacenet7-challenge)|
 |2021/2/25|浅見 正洋|[経済学界隈のTaxi労働供給モデルについてレビュー](https://www.slideshare.net/masahiroasami/ss-243487622)|
 |2021/1/29|鈴木 天音|[さよならFlask ようこそFastAPI](https://speakerdeck.com/amaotone/goodbye-flask-welcome-fastapi)|
 |2021/1/14|島越 直人|[BQMLことはじめ](https://speakerdeck.com/shimacos/bqmlkotohazime)|
