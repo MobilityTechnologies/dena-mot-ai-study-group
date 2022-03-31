@@ -23,4 +23,8 @@ jobs:
           rm -r toronto-cli-linux-386.tar.gz
           # run toronto-cli
           ./toronto-cli
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@2.0.1
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
