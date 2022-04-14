@@ -9,6 +9,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-20.04
+    permissions:
+      id-token: write
     steps:
       - name: toronto-cli install & run
         env:
@@ -24,14 +26,6 @@ jobs:
           # run toronto-cli
           ./toronto-cli
       - uses: actions/checkout@v2
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          allow_empty_commit: true
-          enable_jekyll: true
-
       - name: deploy
         uses: actions/deploy-pages@v1
         with:
