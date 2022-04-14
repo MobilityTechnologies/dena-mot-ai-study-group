@@ -31,5 +31,5 @@ jobs:
           publish_dir: ./
           allow_empty_commit: true
           enable_jekyll: true
-          publish_branch: feature/test-publish-html
+
 
